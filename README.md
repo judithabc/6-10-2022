@@ -8,14 +8,6 @@
 
 ### TITLE
 
-CONTENT
-
-### 1
-
-CONTENT
-
-### 2
-
-CONTENT
+我以前看到过压制演技/配合的部分吗（好像有）
 
 这是我的[主页](https://judithabc.github.io/)
